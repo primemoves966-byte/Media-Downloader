@@ -1,0 +1,6 @@
+{
+  "name": "Media Downloader",
+  "description": "Fast and free media downloader for YouTube, Instagram, Pinterest, and all videos with a sleek black interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
